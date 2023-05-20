@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         println("Este é o conteudo do meu segundo commit")
         println("Alteração 4")
         println("Esta linha sera mesclada")
+        println("Teste push")
     }
 }
